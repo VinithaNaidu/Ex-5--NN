@@ -1,7 +1,7 @@
-<H3>D.Vinitha</H3>
-<H3>212222230175</H3>
-<H3>EX. NO.5</H3>
-<H3>DATE:24.04.2024</H3>
+<H3> NAME : D.Vinitha</H3>
+<H3> REGISTER NO : 212222230175</H3>
+<H3>DATE:</H3>
+<H3>EXPERIMENT NO.5</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
